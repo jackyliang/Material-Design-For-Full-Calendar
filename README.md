@@ -14,6 +14,9 @@ plugins or themes that were as flexible as FullCalendar's
 functionality, so I took matters to my own hands and put this
 together.
 
+What the actual Android Material Design calendar looks like:
+<img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1410153384GIF2.gif">
+
 This is what default FullCalendar looks like. Ew!
 
 <img src="http://imgur.com/vKTKUTx.png">
