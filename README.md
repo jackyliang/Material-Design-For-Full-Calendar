@@ -9,11 +9,11 @@ We know the default FullCalendar looks pretty crappy.
 
 So I turned:
 
-![alt tag](http://imgur.com/vKTKUTx)
+<img src="http://imgur.com/vKTKUTx">
 
 To this:
 
-![alt tag](http://imgur.com/HkrkAaY)
+<img src="http://imgur.com/HkrkAaY">
 
 ### Basic Info
 
