@@ -1,4 +1,4 @@
-# Material-Design-For-Full-Calendar
+# Full Calendar Material Design Theme
 
 <img src="http://imgur.com/HkrkAaY.png">
 
