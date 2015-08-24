@@ -9,11 +9,11 @@ We know the default FullCalendar looks pretty crappy.
 
 So I turned:
 
-[![enter image description here][1]][1]
+![Ugly](http://imgur.com/vKTKUTx)
 
 To this:
 
-[![enter image description here][2]][2]
+![Beautiful](http://imgur.com/HkrkAaY)
 
 ### Basic Info
 
@@ -61,5 +61,3 @@ License:
 
 MIT. Just credit me.
 
-  [1]: http://imgur.com/vKTKUTx
-  [2]: http://imgur.com/HkrkAaY
