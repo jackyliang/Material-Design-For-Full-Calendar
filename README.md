@@ -1,10 +1,10 @@
 # Material-Design-For-Full-Calendar
 
-Material Design CSS theme for FullCalendar Weekly Agenda
+<img src="http://imgur.com/HkrkAaY.png">
 
 ### What Is This
 
-This is the Material Design theme for FullCalendar Weekly Agenda view. 
+This is a Material Design theme for FullCalendar Weekly Agenda view. 
 While FullCalendar is pretty awesome, it looks pretty terrible without
 any styling. I was inspired by Google's Material Design, while
 coincidentally I needed a fitting theme for my Drexel
@@ -14,15 +14,9 @@ plugins or themes that were as flexible as FullCalendar's
 functionality, so I took matters to my own hands and put this
 together.
 
-I turned this:
+This is what default FullCalendar looks like. Ew!
 
 <img src="http://imgur.com/vKTKUTx.png">
-
-To this:
-
-<img src="http://imgur.com/HkrkAaY.png">
-
-Looks pretty good huh?
 
 ### Tested Using the Following FC Settings:
 
