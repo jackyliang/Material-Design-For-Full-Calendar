@@ -40,7 +40,7 @@ This has NOT been tested on Monthly or Daily views.
 
 ### Material Colors: 
 
-To use Material palette, use the Google [Design](https://www.google.com/design/spec/style/color.html#color-color-palette] palette at the 700 level. An opacity of 
+To use Material palette, use the Google [Design](https://www.google.com/design/spec/style/color.html#color-color-palette) palette at the 700 level. An opacity of 
 0.65 is automatically applied to the 700 level colors to generate a 
 soft and pleasing look.
 
