@@ -2,7 +2,7 @@
 
 A way to apply Material Design to the jQuery Full Calendar plugin
 
-<img src="http://i.imgur.com/TH3VsJU.gifv">
+<img src="http://i.imgur.com/TH3VsJU.gif">
 
 What the actual Android Material Design calendar looks like:
 <img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1410153384GIF2.gif">
