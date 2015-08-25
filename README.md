@@ -1,18 +1,8 @@
-# Full Calendar Material Design Theme
+# Material Design for jQuery Full Calendar
 
-<img src="http://imgur.com/HkrkAaY.png">
+A way to apply Material Design to the jQuery Full Calendar plugin
 
-### What Is This
-
-This is a Material Design theme for FullCalendar Weekly Agenda view. 
-While FullCalendar is pretty awesome, it looks pretty terrible without
-any styling. I was inspired by Google's Material Design, while
-coincidentally I needed a fitting theme for my Drexel
-[Schedulizer](http://loop.tf/schedulizer) service. Doing some basic
-research, it didn't seem like there were any Material Design calendar
-plugins or themes that were as flexible as FullCalendar's
-functionality, so I took matters to my own hands and put this
-together.
+<img src="http://i.imgur.com/TH3VsJU.gifv">
 
 What the actual Android Material Design calendar looks like:
 <img src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1410153384GIF2.gif">
@@ -21,11 +11,7 @@ This is what default FullCalendar looks like. Ew!
 
 <img src="http://imgur.com/vKTKUTx.png">
 
-### Tested Using the Following FC Settings:
-
-FullCalendar 2.4.0
-
-And the following FullCalendar settings:
+### Setup
 
     editable: false, // Don't allow editing of events
     handleWindowResize: true,
@@ -38,16 +24,15 @@ And the following FullCalendar settings:
         week: 'ddd' // Only show day of the week names
     },
     displayEventTime: true, // Display event time
+    
+### Usage
 
-This has NOT been tested on Monthly or Daily views.
+Compile using your favorite SASS compiler, or simply change the file
+extension to `.css`. There's little to no actual SASS elements in
+here. The `!important` should override any default CSS of
+FullCalendar. This was the only way I actually could get it to work
 
-### Material Colors: 
-
-To use Material palette, use the Google [Design](https://www.google.com/design/spec/style/color.html#color-color-palette) palette at the 700 level. An opacity of 
-0.65 is automatically applied to the 700 level colors to generate a 
-soft and pleasing look.
-
-Color were applied to each event using the following code:
+Then
 
     events.push({
         title: 'This is a Material Design event!',
@@ -56,12 +41,17 @@ Color were applied to each event using the following code:
         color: '#C2185B'
     });
 
-### How to Use:
+### Applying Material Design Colors 
 
-Compile using your favorite SASS compiler, or simply change the file
-extension to `.css`. There's little to no actual SASS elements in
-here. The `!important` should override any default CSS of
-FullCalendar. This was the only way I actually could get it to work
+<img src="http://i.imgur.com/HCeR1PB.png"></img>
+
+Color palette was pulled from the Google Material Design [documentation](https://www.google.com/design/spec/style/color.html#color-color-palette). 
+
+Highly recommend the 700 level palette to achieve the same color effect as I do.
+
+An opacity of `0.65` is automatically applied to each event to achieve a softer look. 
+
+
 
 ### Please Note
 
