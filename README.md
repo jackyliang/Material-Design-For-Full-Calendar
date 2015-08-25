@@ -1,6 +1,6 @@
 # Material Design for jQuery Full Calendar
 
-A way to apply Material Design to the jQuery Full Calendar plugin
+A Material Design theme for the jQuery Full Calendar plugin
 
 <img src="http://i.imgur.com/TH3VsJU.gif">
 
