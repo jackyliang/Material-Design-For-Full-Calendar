@@ -11,7 +11,18 @@ This is what default FullCalendar looks like. Ew!
 
 <img src="http://imgur.com/vKTKUTx.png">
 
-### Setup
+While FullCalendar is pretty awesome, it looks pretty terrible without
+any styling. I was inspired by Google's Material Design, while
+coincidentally I needed a fitting theme for my Drexel
+[Schedulizer](http://loop.tf/schedulizer) service. Doing some basic
+research, it didn't seem like there were any Material Design calendar
+plugins or themes that were as flexible as FullCalendar's
+functionality, so I took matters to my own hands and put this
+together.
+
+### Setup Full Calendar
+
+Initialize your FullCalendar object using the following settings
 
     editable: false, // Don't allow editing of events
     handleWindowResize: true,
@@ -27,12 +38,11 @@ This is what default FullCalendar looks like. Ew!
     
 ### Usage
 
-Compile using your favorite SASS compiler, or simply change the file
+Compile `_materialFullCalendar.scss` using your favorite SASS compiler, or simply change the file
 extension to `.css`. There's little to no actual SASS elements in
-here. The `!important` should override any default CSS of
-FullCalendar. This was the only way I actually could get it to work
+here.
 
-Then
+Pushing and adding new events is still the same, although you apply a `color` attribute.
 
     events.push({
         title: 'This is a Material Design event!',
